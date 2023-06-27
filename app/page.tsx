@@ -2,9 +2,9 @@ import React from 'react'
 
 const HomePage = () => {
   return (
-    <div>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem sequi est molestiae repellat, non nemo voluptate quas rerum veritatis delectus debitis accusantium nulla reprehenderit dolor vitae a, inventore consequuntur cupiditate.
-    </div>
+    <h1 className="text-3xl font-bold underline bg-green-500">
+    Hello world!
+  </h1>
   )
 }
 
